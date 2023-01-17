@@ -2,7 +2,7 @@
 
 Procedimientos.
 
-1.- Los dos cables viajeros lo llevamos desde una caja hasta la otra cable que sea numero doce o 14 de un solo tono.
+1.- Los dos cables viajeros lo llevamos desde una caja hasta la otra cable que sea numero 12 o 14.
 
 2.- De la primera caja hasta la caja ortogonal vamos a llevar una fase que va a alimentar los dos viajeros.
 
